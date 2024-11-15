@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# ShopMore Hub
+ShopMore Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Buy and sell products
+* Message other sellers
+* Rate others product
+* Search other seller our product
 
 # Course Overview
 * Basic React Native Components

@@ -19,13 +19,13 @@ ShopMore Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/s1.png">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/s3.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/s2.png">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
